@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.Data", "BilgeAdam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.Helper", "BilgeAdam.Helper\BilgeAdam.Helper.csproj", "{718364D4-CE65-4C6C-B57C-A8FAA8E12659}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{0DB8F5A4-ECDC-43CC-AA47-F44C04C1A41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server1\Server.csproj", "{573BD6B0-C4E2-4158-9A32-09AD45570047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{718364D4-CE65-4C6C-B57C-A8FAA8E12659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718364D4-CE65-4C6C-B57C-A8FAA8E12659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{718364D4-CE65-4C6C-B57C-A8FAA8E12659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB8F5A4-ECDC-43CC-AA47-F44C04C1A41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB8F5A4-ECDC-43CC-AA47-F44C04C1A41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB8F5A4-ECDC-43CC-AA47-F44C04C1A41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB8F5A4-ECDC-43CC-AA47-F44C04C1A41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573BD6B0-C4E2-4158-9A32-09AD45570047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573BD6B0-C4E2-4158-9A32-09AD45570047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573BD6B0-C4E2-4158-9A32-09AD45570047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573BD6B0-C4E2-4158-9A32-09AD45570047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
